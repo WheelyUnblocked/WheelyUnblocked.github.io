@@ -1,0 +1,2 @@
+version="2";
+libs=["./jsdelivr/js/splash.min.js","./jsdelivr/js/phaser-ads.min.js","./jsdelivr/js/phaser-cachebuster.min.js","./jsdelivr/js/phaser-spine.min.js","./jsdelivr/js/phaser-super-storage.min.js"];
